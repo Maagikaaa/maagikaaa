@@ -20,9 +20,9 @@
 ---
 
 ### 🔭 Current Projects
-- 💻 **[Arch Linux project computer](#)** – Revived an old Windows 7 laptop with Arch Linux + KDE Plasma.
-- 🎨 **[KDE Plasma icon pack](#)** – Creating a free, public-access icon pack for KDE users.
-- 🛠 **[Minecraft Bedrock resource pack](#)** – Creating custom textures & assets for Bedrock.
+- 💻 **[Arch Linux project computer]** – Revived an old Windows 7 laptop with Arch Linux + KDE Plasma.
+- 🎨 **[KDE Plasma icon pack]** – Creating a free, public-access icon pack for KDE users.
+- 🛠 **[Minecraft Bedrock resource pack]** – Creating custom textures & assets for Bedrock.
 - 🖥 **[Digital Windows XP emulator journal](https://cybernets.neocities.org/about)** – Creating an interactive emulator-like HTML/CSS/JS project documenting ideas.
 
 ---
@@ -64,15 +64,6 @@
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="500"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="500"/>
-</p>
 
 ---
 
