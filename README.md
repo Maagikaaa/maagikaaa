@@ -68,4 +68,4 @@
 ---
 
 ### 🌟 Fun Fact
-I love turning old tech into fun projects—like reviving old laptops, creating emulators, and exploring the limits of Linux and web dev!
+I love turning old tech into fun projects, like reviving old laptops, creating emulators, and exploring the limits of Linux and web dev!
