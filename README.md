@@ -3,8 +3,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnByYTJhYWZsZDVoemJtMnowY3pyazFtcnI1ZGJkOXpmZ2YzdHN6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LKvHJSPgCj4BjF1F5e/giphy.webp" width="400"  alt="Coding Animation">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Magdalena)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm Magdalena</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Magdalena)](https://git.io/typing-svg)
 <h3 align="center">Software Engineering student at the University of Guelph | Passionate about programming & cybersecurity</h3>
 
 
