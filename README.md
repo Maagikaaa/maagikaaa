@@ -1,6 +1,6 @@
 <!--header -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzd2cnVnMDA0eGphZHB0OWpoeTlkaTI4M2hwbHJybjU2a2dla2xoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp" width="1000" height="100" alt="Coding Animation">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnY0emUzcTI3enF0eG41c2dqdDZiamNqejV6YmdrZ3NndWh6cmMzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeaRi8IUAw7xmnIv0O/giphy.webp" width="1000" height="100" alt="Coding Animation">
 </p>
 
 
