@@ -7,12 +7,10 @@
 <h3 align="center">Software Engineering student at the University of Guelph | Passionate about programming & cybersecurity</h3>
 
 
+<h4 align="center">
+  🚀 Exploring Linux, Python, C, C++, JavaScript & Java | 💻 Building fun projects | 🌟 Always learning and experimenting!</h4>
 
-<!-- scrolling text -->
-<marquee behavior="scroll" direction="left" scrollamount="6">
-  🚀 Exploring Linux, Python, C, C++, JavaScript & Java | 💻 Building fun projects | 🌟 Always learning and experimenting!
-</marquee>
-<!-- Header End -->
+
 
 
 <p align="center">
