@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Magdalena</h1>
-<h3 align="center">Software Engineering student at the University of Guelph | Passionate about programming & cybersecurity</h3>
-
 <!--header -->
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzd2cnVnMDA0eGphZHB0OWpoeTlkaTI4M2hwbHJybjU2a2dla2xoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp" width="600" alt="Coding Animation">
 </p>
+
+
+<h1 align="center">Hi 👋, I'm Magdalena</h1>
+<h3 align="center">Software Engineering student at the University of Guelph | Passionate about programming & cybersecurity</h3>
+
+
 
 <!-- scrolling text -->
 <marquee behavior="scroll" direction="left" scrollamount="6">
