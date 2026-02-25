@@ -6,16 +6,16 @@
 </p>
 
 <marquee behavior="scroll" direction="left" scrollamount="6">
-  🚀 Exploring Linux, Python, JavaScript & Java | 💻 Building fun projects | 🌟 Always learning and experimenting!
+  🚀 Exploring Linux, Python, C, C++, JavaScript & Java | 💻 Building fun projects | 🌟 Always learning and experimenting!
 </marquee>
 
 ---
 
 ### 🔭 Current Projects
 - 💻 **[Arch Linux project computer](#)** – Revived an old Windows 7 laptop with Arch Linux + KDE Plasma.
-- 🎨 **[KDE Plasma icon pack](#)** – Free, public-access icon pack for KDE users.
-- 🛠 **[Minecraft Bedrock resource pack](#)** – Creating custom textures & assets.
-- 🖥 **[Digital Windows XP emulator journal](https://cybernets.neocities.org/about)** – Interactive HTML/CSS/JS project documenting ideas.
+- 🎨 **[KDE Plasma icon pack](#)** – Creating a free, public-access icon pack for KDE users.
+- 🛠 **[Minecraft Bedrock resource pack](#)** – Creating custom textures & assets for Bedrock.
+- 🖥 **[Digital Windows XP emulator journal](https://cybernets.neocities.org/about)** – Creating an interactive emulator-like HTML/CSS/JS project documenting ideas.
 
 ---
 
@@ -24,11 +24,8 @@
   <a href="mailto:manodali@uoguelph.ca">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+  <a href="https://www.linkedin.com/in/magdalena-anodalieva-b967153a7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge" alt="Twitter"/>
   </a>
 </p>
 
