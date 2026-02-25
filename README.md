@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering student at the University of Guelph | Passionate about programming & cybersecurity</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LKvHJSPgCj4BjF1F5e/giphy.webp" width="200" alt="coding gif">
+  <img src="https://media.giphy.com/media/LKvHJSPgCj4BjF1F5e/giphy.webp" width="400" alt="coding gif">
 </p>
 
 <marquee behavior="scroll" direction="left" scrollamount="6">
