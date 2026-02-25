@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LKvHJSPgCj4BjF1F5e/giphy.webp" width="400" alt="coding gif">
+  <img src="https://media.giphy.com/media/wmPwaqkdoFa5pAYn60/giphy.webp" width="400" position= "left" alt="coding gif">
 </p>
 
 ---
